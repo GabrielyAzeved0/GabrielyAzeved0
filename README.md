@@ -1,6 +1,7 @@
 ## Olá! Eu sou a Gabriely Azevedo
 
-- 💻 Técnica em informática 
+- 💻 Técnica em informática
+- 👩‍💻 Graduanda em Engenharia de Software
 - 🌱 estudando programação...
 - 👯 Toco alguns instrumentos nas horas vagas...
 <div align="center">
