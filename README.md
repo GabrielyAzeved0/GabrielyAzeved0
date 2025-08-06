@@ -2,7 +2,7 @@
 
 - 💻 Técnica em informática
 - 👩‍💻 Graduanda em Engenharia de Software
-- 🌱 estudando programação...
+- 🌱 Estudando programação...
 <div align="center">
   <a href="https://github.com/GabrielyAzeved0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielyAzeved0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
